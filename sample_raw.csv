@@ -1,0 +1,8 @@
+﻿Name,Email,Amount
+John Doe,johndoe@email.com,"$1,200.50 "
+,missingname@email.com,$500.00 
+Jane Smith,janesmith@email.com,"$2,300.00 "
+INVALID ROW,,
+Mike,MIKE@email.com,"$1,000 "
+Rachel Green,rachel@email.com,$
+Tom,,1000
